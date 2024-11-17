@@ -1,1 +1,4 @@
 Hello this is my first class day 1 git
+Second line
+Third line
+Wrong line jenni
